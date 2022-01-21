@@ -1,0 +1,61 @@
+body {
+    background: url(../images/pexels-lisa-fotios-1083822.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:center;
+    position: relative;
+    height: 600px;
+    width: 100%;
+  }
+
+  .header-h1{
+
+    font-size: 40px;
+    font-weight: 700;
+    color:whitesmoke;
+    margin-top: 235px;
+ }
+
+ .text-h1{
+  font-size: 40px;
+  font-weight: 300;
+  color:white;
+  margin-top: 10px;
+}
+
+.checked{
+  color: yellow;
+}
+
+.selected {
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+}
+
+.css-style{
+  background-color: #3366ff;
+  color: white;
+  font-weight: bold;
+}
+
+.boot-style{
+  background-color:#663399;
+  color: white;
+  font-weight: bold;
+}
+
+
+.simple{
+  background-color:#Ab784E;
+  color: white;
+  font-weight: bold;
+}
+
+.js{
+  background-color:black;
+  color: gold;
+  font-weight: bold;
+}
+
+ 
