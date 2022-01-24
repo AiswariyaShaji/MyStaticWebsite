@@ -1,7 +1,8 @@
 body {
-    background: url("https://github.com/AiswariyaShaji/MyStaticWebsite/blob/master/images/pexels-lisa-fotios-1083822.jpg") center;
+    background: url("https://github.com/AiswariyaShaji/MyStaticWebsite/blob/master/images/pexels-lisa-fotios-1083822.jpg");
     background-attachment: fixed;
     background-position:center;
+    background-repeat:no-repeat;
     position: center;
     height: 600px;
     width: 100%;
