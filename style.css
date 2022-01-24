@@ -4,7 +4,7 @@
     background-position:relative;
     position: relative;
     background-repeat:no-repeat;
-   
+    background-size:cover;
     height: 600px;
     width: 100%;
   }
