@@ -24,9 +24,8 @@ body {
 }
 
 .checked{
-  color: gold;
+  color : #ffd700;
 }
-
 
 .selected {
   background-color: orange;
