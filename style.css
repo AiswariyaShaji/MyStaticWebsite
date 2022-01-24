@@ -24,7 +24,15 @@ body {
 }
 
 .checked{
-  color: yellow;
+  color: gold;
+}
+.half-checked{
+    content:'\2605';
+    color: gold;
+    position: absolute;
+    margin-left: -20px;
+    width: 10px;
+    overflow: hidden;
 }
 
 .selected {
