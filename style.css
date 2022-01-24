@@ -24,8 +24,9 @@ body {
 }
 
 .checked{
-  color: gold;
+  color : #ffd700;
 }
+
 .half-checked{
     content:'\2605';
     color: gold;
