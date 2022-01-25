@@ -57,5 +57,6 @@ body {
   color: gold;
   font-weight: bold;
 }
-
- 
+ ul{
+   text-align: center;
+ }
